@@ -3,7 +3,7 @@ This is my repository for all my projects and progress.
 Below is a list of all the topics that I will be exploring as 
 I acquire more skills and knowledge in various fields of Information Technology.
 
-## responsive-web-design-projects
+## responsive-web-design
 learning HTML5 and CSS3 fundamentals in modern techniques and best practices for accessibility
 ## responsive-web-design
 ## javascript-algorithms-and-data-structures
