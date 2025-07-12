@@ -3,6 +3,10 @@ This is my repository for all my projects and progress.
 Below is a list in no particular order of all the topics that I will be exploring as 
 I acquire more skills and knowledge in various fields of Information Technology.
 
+<em>I haven't made my portfolio public because I do not want other users to add or modify my code as I practice.
+That may be my ignorance speaking but I am new and unsure of what to publicize. 
+Thank you for your understanding.</em>
+
 ## responsive-web-design
 - [ ] learning HTML5 and CSS3 fundamentals in modern techniques and best practices for accessibility
 ## javascript-algorithms-and-data-structures
