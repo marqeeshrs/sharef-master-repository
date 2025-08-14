@@ -9,9 +9,10 @@ Thank you for your understanding.</em>~~ AAAAAHHHH YEEEEAH! I'm public!
 Super excited to finally be really puting myself to task and learning all that I can.
 
 ## responsive-web-design
-- [ ] learning HTML5 and CSS3 fundamentals in modern techniques and best practices for accessibility
+- [x] learning HTML5 and CSS3 fundamentals in modern techniques and best practices for accessibility
 ## javascript-algorithms-and-data-structures
-- [ ] 
+- [ ]  learning about Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, 
+ how to work with local storage, and how to fetch data using an API
 ## front-end-development-libraries
 - [ ] 
 ## data-visualization
